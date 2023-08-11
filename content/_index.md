@@ -26,27 +26,26 @@ sections:
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: RSIP Vision
       company_logo: org-gc
-      company_url: ""
+      company_url: "https://www.rsipvision.com/"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2020-01-01"
       description: |2-
-          Responsibilities include:
-
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
+          Analyzing clinical records and medical images with the purpose of creating statistical data and develop solutions utilizing deep learning for image processing.
+      location: Remote
+      title: Project lead/Data analyst
+      
+    - company: The Norwegian University of Science and Technology (NTNU)
       company_logo: org-x
-      company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      company_url: "https://www.ntnu.edu/"
+      date_end: "2023-06-08"
+      date_start: "2022-02-01"
+      description: |2-
+           Conducted in vitro work utilizing various techniques (ICC, viral transfections, calcium imaging and optogenetics) on micro-scale engineered platforms for investigating neural network development and plasticity.
+      location: Norway
+      title: Research assistant
+      
     title: Experience
   design:
     columns: "2"
@@ -173,42 +172,29 @@ sections:
 - block: contact
   content:
     address:
-      city: Stanford
-      country: United States
-      country_code: US
-      postcode: "94305"
-      region: CA
-      street: 450 Serra Mall
+      city: Paris
+      country: France
+      country_code: FR
+      postcode: "75012"
+      region: 
+      street: 17 rue Moreau
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
     - icon: twitter
       icon_pack: fab
-      link: https://twitter.com/Twitter
+      link: https://twitter.com/Polina_M_I
       name: DM Me
-    - icon: skype
-      icon_pack: fab
-      link: skype:echo123?call
-      name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-    email: test@example.org
+    email: polinama@stud.ntnu.no
     form:
       formspree:
         id: null
       netlify:
         captcha: false
       provider: netlify
-    office_hours:
-    - Monday 10:00 to 13:00
-    - Wednesday 09:00 to 10:00
-    phone: 888 888 88 88
     subtitle: null
-    text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
-      ut magna et, vehicula efficitur enim.
+    text: 
     title: Contact
   design:
     columns: "2"

@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include in vitro neural networks in healthy and perturbed conditions.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Neuroscience
+    institution: Sorbonne University (Institute de la Vision)
+    year: 2026
+  - course: MSc in Neuroscience
+    institution: The Norwegian University of Science and Technology (NTNU)
+    year: 2023
+  - course: BSc in Neuroscience
+    institution: Bar Ilan University
+    year: 2020
 email: ""
-first_name: Alice
+first_name: Polina
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Neural networks
+- In vitro modeling
+- Neuroengineering
+last_name: Malahov
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Sorbonne University
+  url: https://www.sorbonne-universite.fr/en
+role: Doctoral Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,23 +32,23 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Polina_M_I
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/polinaim
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/polina-malahov/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Polina Malahov
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
