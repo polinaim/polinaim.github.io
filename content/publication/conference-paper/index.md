@@ -18,8 +18,8 @@ projects:
 - example
 publication: In NTNU Open
 publication_short: In NTNU Open
-publication_types:
-- "1"
+#publication_types:
+#- "1"
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: Advanced neuroengineering for studying the structure-function dynamics in healthy and perturbed neural networks.
