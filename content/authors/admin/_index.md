@@ -3,7 +3,7 @@ bio: My research interests include in vitro neural networks in healthy and pertu
 education:
   courses:
   - course: PhD in Neuroscience
-    institution: Sorbonne University (Institute de la Vision)
+    institution: Sorbonne University (Institute de la Vision) & University of Groningen
     year: 2026
   - course: MSc in Neuroscience
     institution: The Norwegian University of Science and Technology (NTNU)
@@ -22,7 +22,9 @@ last_name: Malahov
 organizations:
 - name: Sorbonne University
   url: https://www.sorbonne-universite.fr/en
-role: Doctoral Candidate
+- name: University of Groningen
+  url: https://www.rug.nl/?lang=en/
+role: Doctoral Candidate in Neuroscience
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,12 +46,12 @@ social:
   link: https://www.linkedin.com/in/polina-malahov/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: uploads/cv.pdf
 status:
   icon: ☕️
 superuser: true
 title: Polina Malahov
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Doctoral candidate in the Marie Skłodowska-Curie program (EGRET-AAA) for Neuroscience and part of a joint PhD at **Sorbonne University** (Paris, FR) and **University of Groningen** (Groningen, NL). 
 {style="text-align: justify;"}
