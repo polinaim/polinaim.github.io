@@ -46,7 +46,7 @@ social:
   link: https://www.linkedin.com/in/polina-malahov/
 - icon: cv
   icon_pack: ai
-  link: uploads/cv.pdf
+  link: uploads/resumePM.pdf
 status:
   icon: ☕️
 superuser: true
