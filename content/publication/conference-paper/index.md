@@ -23,7 +23,7 @@ publication_short: In NTNU Open
 publishDate: "2017-01-01T00:00:00Z"
 #slides: example
 summary: Advanced neuroengineering for studying the structure-function dynamics in healthy and perturbed neural networks.
-tags: []
+tags: ["Neural Networks"]
 title: Master's thesis
 #url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 #url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes

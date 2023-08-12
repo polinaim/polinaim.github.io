@@ -11,8 +11,7 @@ links:
   url: https://twitter.com/Polina_I_M
 #slides: example
 summary: My first neural network project
-tags:
-- Deep Learning
+tags: ["Neural Networks", "Deep Learning"]
 title: Neural network Project
 url_code: ""
 url_pdf: ""
