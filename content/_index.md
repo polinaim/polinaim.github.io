@@ -45,7 +45,7 @@ sections:
       location: Norway
       title: Research assistant
       
-    - company: Bar Ilan university
+    - company: Bar Ilan University
       company_logo: Bar_Ilan_seal
       company_url: "https://gondabrain.biu.ac.il/en"
       date_end: "2021-01-08"
@@ -54,10 +54,11 @@ sections:
            Administration of clinical neuropsychological testing to gather data from various research experiments conducted in the MEG neuroimaging unit and performing physiological and behavioral analysis of the collected data.
       location: Israel
       title: Research assistant
-      
     title: Experience
   design:
     columns: "2"
+  id: experience
+    
 #- block: accomplishments
 #  content:
 #    date_format: Jan 2006
@@ -174,7 +175,7 @@ sections:
       Enter Building 1 and take the stairs to Office 200 on Floor 2
       
       <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10501.689428239006!2d2.3726121!3d48.850156!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e672041ab53c41%3A0x90a5a9f8747e62c2!2sInstitute%20Vision%20-%20Sorbonne%20University!5e0!3m2!1sen!2sil!4v1691840903367!5m2!1sen!2sil" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    email: polinama@stud.ntnu.no
+    email: polina.malahov@gmail.com
     form:
       provider: formspree
       formspree:

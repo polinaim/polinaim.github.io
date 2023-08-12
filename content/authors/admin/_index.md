@@ -38,9 +38,9 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/polinaim
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/polinaim
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/polina-malahov/
