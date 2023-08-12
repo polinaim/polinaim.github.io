@@ -8,7 +8,6 @@ sections:
   id: about
 #- block: features
 #  content:
-#    items:
 #    - description: 90%
 #      icon: r-project
 #      icon_pack: fab
@@ -181,7 +180,7 @@ sections:
       formspree:
         id: null
       netlify:
-        captcha: false
+        captcha: true
       provider: netlify
     subtitle: null
     text: 
