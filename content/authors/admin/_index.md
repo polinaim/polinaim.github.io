@@ -54,4 +54,6 @@ title: Polina Malahov
 ---
 
 I am a Doctoral candidate in the Marie Skłodowska-Curie program (EGRET-AAA) for Neuroscience and part of a joint PhD at **Sorbonne University** (Paris, FR) and **University of Groningen** (Groningen, NL). 
+
+In really enjoy having a fresh cup of coffee in the morning and my preferable free-time activities involve nature, hiking and a good book. 
 {style="text-align: justify;"}
