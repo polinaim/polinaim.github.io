@@ -170,12 +170,9 @@ sections:
     appointment_url: https://calendly.com
     autolink: true
     contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Polina_M_I
-      name: DM Me
     directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     email: polinama@stud.ntnu.no
+    
     form:
       formspree:
         id: null
