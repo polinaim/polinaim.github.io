@@ -179,9 +179,9 @@ sections:
     form:
       formspree:
         id: null
+      provider: netlify
       netlify:
         captcha: true
-      provider: netlify
     subtitle: null
     text: 
     title: Contact
