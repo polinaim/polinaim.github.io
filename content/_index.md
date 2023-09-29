@@ -25,6 +25,16 @@ sections:
   content:
     date_format: Jan 2006
     items:
+    - company: Sorbonne University
+      company_logo: Sorbonne
+      company_url: "https://www.sorbonne-universite.fr/en/"
+      date_end: ""
+      date_start: "2023-10-01"
+      description: |2-
+          My research focuses on characterization of Retinal Mononuclear phagocytes and Macroglia and their role in in retinal ischamia.
+      location: Paris, France
+      title: Doctoral Researcher
+      
     - company: RSIP Vision
       company_logo: rsip
       company_url: "https://www.rsipvision.com/"
